@@ -10,4 +10,4 @@ spec:
   values:
     ingress:
       hosts:
-        - podinfo-test.production
+        - podinfo1111.production
