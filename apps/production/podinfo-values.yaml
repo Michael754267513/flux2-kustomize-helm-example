@@ -10,4 +10,4 @@ spec:
   values:
     ingress:
       hosts:
-        - podinfo999.production
+        - podinfo99889.production
